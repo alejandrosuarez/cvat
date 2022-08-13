@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@types/three": "^0.125.3",
-    "camera-controls": "^1.25.3",
+    "camera-controls": "^1.35.0",
     "three": "^0.125.0"
   }
 }
