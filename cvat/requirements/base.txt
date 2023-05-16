@@ -55,3 +55,4 @@ google-cloud-storage==1.42.0
 # when pycocotools is installed by wheel in python 3.8+
 datumaro==0.1.10.1 --no-binary=datumaro --no-binary=pycocotools
 urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
