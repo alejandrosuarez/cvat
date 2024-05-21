@@ -4,3 +4,4 @@ fakeredis==1.4.3
 # Pip will not reinstall six package if it is installed already
 six==1.15.0
 coveralls
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
